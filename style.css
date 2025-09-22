@@ -1,4 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
 h1 {
-    text-align:center;
     color: cadetblue;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 15px 0;
+}
+
+section {
+    text-align: center;
+    margin-top: 50px;
+}
+
+ul {
+    text-align: left;
+    margin-left: 350px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 195px;
+    background-color: rgb(140, 165, 212);
+    padding: 10px;
 }
